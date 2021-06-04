@@ -29,7 +29,6 @@ const socialMediaLinks = {
   gmail: "sagar@codingwithsagar.tech",
   gitlab: "https://gitlab.com",
   facebook: "https://www.facebook.com/sagor.karmoker.12",
-  medium: "https://medium.com",
   stackoverflow: "https://stackoverflow.com/users/15398981/piash-k",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
