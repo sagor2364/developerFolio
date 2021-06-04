@@ -109,6 +109,8 @@ https://fontawesome.com/icons?d=gallery */
   display: true // Set false to hide this section, defaults to true
 };
 
+/* Commented these sections */
+/*
 // Education Section
 
 const educationInfo = {
@@ -190,8 +192,8 @@ const workExperiences = {
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
+// Your Open Source Section to View Your Github Pinned Projects
+//To know how to get github key look at readme.md 
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
@@ -331,7 +333,7 @@ const talkSection = {
   ],
   display: true // Set false to hide this section, defaults to true
 };
-
+*/
 // Podcast Section
 
 const podcastSection = {
